@@ -1,5 +1,4 @@
-# Hi I'm Jyothirmai Kottu 👋
-
+# Hi, I'm Jyothirmai Kottu! 👩🏻‍💻
 
 Graduate student in Computer Science at California State University Sacramento. Currently, I am seeking internship opportunities that will enable me to learn from experienced professionals and contribute my skills to the organization. I'd love to connect and chat more, please feel free to reach out! 
 
