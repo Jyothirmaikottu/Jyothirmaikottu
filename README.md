@@ -100,29 +100,6 @@
 
 ---
 
-## 📊 Recent contributions (summary)
-
-- Total GitHub pull requests authored: 132 (showing 100 most-recent results). View full list: https://github.com/search?q=author%3AJyothirmaikottu+type%3Apr
-- Active across: aws/deep-learning-containers, aws/sagemaker-xgboost-container, aws-samples, awslabs/llm-hosting-container and community projects
-- Focus areas: security patches (CVE fixes), Docker/image upgrades, Python/runtime upgrades, CI/build/test automation, XGBoost migrations and vLLM work, smoke tests & benchmarks
-
----
-
-## 🔁 Recent contributions (selected highlights)
-
-- [Upgrade XGBoost to 3.2.0 and add Python 3.12 support — aws/deep-learning-containers #6024](https://github.com/aws/deep-learning-containers/pull/6024)
-- [Upgrade XGBoost Docker & Python support — aws/sagemaker-xgboost-container #478](https://github.com/aws/sagemaker-xgboost-container/pull/478)
-- [Patch cryptography CVE in vLLM Dockerfiles — aws/deep-learning-containers #5972](https://github.com/aws/deep-learning-containers/pull/5972)
-- [Add Qwen3-Embedding smoke tests — aws/deep-learning-containers #6017](https://github.com/aws/deep-learning-containers/pull/6017)
-- [Migrate XGBoost tests and containers into DL Containers repository — (multiple PRs, e.g. #5852, #5860, #5872)](https://github.com/aws/deep-learning-containers/pulls?q=is%3Apr+author%3AJyothirmaikottu)
-- [Security: CWE-502 pickle deserialization fixes across SageMaker containers — aws/sagemaker-xgboost-container #469, #470](https://github.com/aws/sagemaker-xgboost-container/pulls?q=is%3Apr+author%3AJyothirmaikottu)
-- [Multiple release and test pipeline updates for vLLM and HuggingFace images — aws/deep-learning-containers (see recent PRs)](https://github.com/aws/deep-learning-containers/pulls?q=is%3Apr+author%3AJyothirmaikottu)
-- [Contributed docs and tutorials (sample-aws-deep-learning-containers)](https://github.com/aws-samples/sample-aws-deep-learning-containers/pulls?q=is%3Apr+author%3AJyothirmaikottu)
-
-If you'd like a different set of highlights (only merged PRs, only security fixes, or repo-filtered), I can regenerate this list.
-
----
-
 ## 📊 Stats
 
 <div align="center">
