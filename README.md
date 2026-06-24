@@ -1,9 +1,9 @@
 ### Hello there 👋
 
-#### Coffee Enthusiast, Travel Freak and SDE :) 
+#### I'm a Coffee Enthusiast, Travel Freak and SDE :) 
 
-Software Engineer at **AWS**, based in Santa Clara, CA;<br>
-Passionate about **MLOps, GPU Optimization, and Cloud Infrastructure**;<br>
+Software Engineer at **AWS**, based in Santa Clara, CA<br>
+Passionate about **MLOps, GPU Optimization, and Cloud Infrastructure**<br>
 
 - ⚙️ I use daily: `.python`, `.js`, `.pytorch`, `.tensorflow`, `.docker`, `.kubernetes`
 - 🌍 I'm mostly active within the **Open Source & Cloud Communities**
