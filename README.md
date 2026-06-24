@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### An SDE by day ☼ and an Open Source Enthusiast by night ☾
+#### Coffee Enthusiast, Travel Freak and SDE :) 
 
 Software Engineer at **AWS**, based in Santa Clara, CA;<br>
 Passionate about **MLOps, GPU Optimization, and Cloud Infrastructure**;<br>
